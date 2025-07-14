@@ -1,4 +1,4 @@
-# 🖇️ Directed Graph ADT – Python
+# Directed Graph ADT 
 
 This project implements a **Directed Graph Abstract Data Type (ADT)** in Python. It provides a clean object-oriented design for working with graphs, including vertex and edge operations, and supports reading from and writing to text files.
 
@@ -11,7 +11,7 @@ A simple console-based UI is also included to interact with the graph.
 
 ---
 
-## ✅ Features
+## Features
 
 - **Graph Operations**  
   - Get the number of vertices.  
@@ -31,9 +31,6 @@ A simple console-based UI is also included to interact with the graph.
 - **Utilities**  
   - Generate random graphs with a specified number of vertices and edges.  
   - Copy an existing graph (deep copy).  
-
-- **Console UI**  
-  - Menu-driven interface to perform all operations interactively.  
 
 ---
 
